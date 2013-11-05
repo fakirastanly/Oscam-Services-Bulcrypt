@@ -26,6 +26,16 @@ caid = 5581
 provid = 000000
 srvid=CB,CD
 #
+[bulsatcom-HD]
+caid = 5581
+provid = 000000
+srvid=0016,0084,00CC,00CE,00CF,00D2
+#
+[bulsatcom-HBO]
+caid = 5581
+provid = 000000
+srvid=0015,03ED,002E
+#
 [bulsatcom.Serbia]
 caid = 5581,4AEE
 provid = 000000
